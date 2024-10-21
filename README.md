@@ -1,9 +1,3 @@
-# Palestine-Israel-Conflict-Power-BI-Dashboard
-Palestine-Israel Conflict Power BI Dashboard
-To help you create a professional README for your Power BI dashboard on GitHub, I'll structure it so that it not only explains the functionality of the dashboard but also appeals to both technical and non-technical audiences. Here's a professional README template you can use and adapt as needed:
-
----
-
 # Palestine-Israel Conflict Power BI Dashboard
 
 ## Overview
