@@ -87,7 +87,7 @@ Each page contains visual filters and interactive elements to drill down into sp
 ## Screenshots
 
 ### Journalists Page
-![Journalists Page](path_to_screenshot1)
+![Screenshot_6](https://github.com/user-attachments/assets/11102c20-1263-4c87-85cd-d7245e69a2ef)
 
 ### Infrastructure Damage Page
 ![Infrastructure Damage](path_to_screenshot2)
