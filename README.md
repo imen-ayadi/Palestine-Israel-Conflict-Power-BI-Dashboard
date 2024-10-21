@@ -116,7 +116,3 @@ Feel free to submit issues or pull requests to improve the dashboard.
 ## License
 
 This project is licensed under the MIT License.
-
----
-
-Let me know if you'd like me to adjust or expand any sections!
