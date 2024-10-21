@@ -85,14 +85,20 @@ Each page contains visual filters and interactive elements to drill down into sp
 3. Use the filters on each page to refine the data based on your specific focus, such as date ranges, regions, or incident types.
 
 ## Screenshots
+### overview page
+![Screenshot_1](https://github.com/user-attachments/assets/13797426-600a-4f19-83c7-4f09b34d50e2)
+### Incidents and Casualties in Gaza
+![Screenshot_3](https://github.com/user-attachments/assets/1c8b2164-233e-49f0-ad62-52cc7a959015)
+### Incidents and Casualties in West Bank
+![Screenshot_4](https://github.com/user-attachments/assets/8f9d531f-73a4-4f7c-a735-9974f40e585c)
 
 ### Journalists Page
 ![Screenshot_6](https://github.com/user-attachments/assets/11102c20-1263-4c87-85cd-d7245e69a2ef)
 
 ### Infrastructure Damage Page
-![Infrastructure Damage](path_to_screenshot2)
-
-... (continue with the other pages)
+![Screenshot_5](https://github.com/user-attachments/assets/76ed287d-1041-4249-aaf5-42ad4da969e5)
+### a brief summary page 
+![Screenshot_2](https://github.com/user-attachments/assets/70caf802-ca98-4ea7-9573-6930bd16159c)
 
 ## How to Run This Project
 
