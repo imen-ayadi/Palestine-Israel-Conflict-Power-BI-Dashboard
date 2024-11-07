@@ -114,5 +114,4 @@ Each page contains visual filters and interactive elements to drill down into sp
 Feel free to submit issues or pull requests to improve the dashboard.
 
 ## License
-
 This project is licensed under the MIT License.
